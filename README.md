@@ -28,6 +28,6 @@ Yes technically it is allowed all actions, I will leave it as a learning excersi
 Drop in the credetials, your region, and the name of the security group in the relevant variables.
 
 Made for Matt by Jake.
-Absolutly No Warranty or gaurentee provided =]
+Absolutly No Warranty or gaurentee provided. Very minimal testing has been done. =]
 
 MIT Liscense. Do whatever you want with it. If you sell and make $$$ I would appreciate beer.
