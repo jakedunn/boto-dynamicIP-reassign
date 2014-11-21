@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 #
 # dynamicIPSecurityGroup.py
 # Simple script to adjust IP adresses which are allowed acesses via ssh to current system IP Adress.
